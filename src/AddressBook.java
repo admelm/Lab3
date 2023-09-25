@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+//hi from website
 public class AddressBook {
 
     ArrayList<BuddyInfo> Buddy = new ArrayList<BuddyInfo>();
