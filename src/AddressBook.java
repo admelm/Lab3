@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 //hi from website
+//this is from the new branch
 public class AddressBook {
 
     ArrayList<BuddyInfo> Buddy = new ArrayList<BuddyInfo>();
